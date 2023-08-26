@@ -18,4 +18,7 @@ kingdom of Lecco, two of the
 poorest kingdoms of the time so
 much so that they consisted of
 only a tower, a castle and a mine.
-Who will prevail ?
+Who will prevail?
+
+![immagine](https://github.com/GiacomoColosio02/Castel_War_Pygame/assets/143277885/f7b99d2f-bd06-4e63-9ef1-73a96e5c3348)
+
